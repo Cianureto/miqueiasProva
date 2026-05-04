@@ -1,0 +1,1 @@
+console.log("Olá, Lucas! Bem-vindo ao mundo da programação!");
